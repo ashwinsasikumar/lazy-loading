@@ -1,0 +1,21 @@
+.top {
+  display: flex;
+  gap: 500px;
+  background-color: rgba(0, 0, 0, 0.823);
+  width: 1420px;
+  border-radius: 10px;
+  height: 70px;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  background-image: url("../assets/loadableimg1.jpg");
+  display: flex;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
