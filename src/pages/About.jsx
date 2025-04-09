@@ -36,7 +36,7 @@ export default function About() {
     </div>
 
     <div>
-      <h1>namma tha eppayme namma tha daa</h1>
+      <h1>namma tha eppayme namma daa</h1>
     </div>
     </>
   );
