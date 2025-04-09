@@ -25,6 +25,7 @@ export default function About() {
         marketers can use click-through rates and conversion rate to determine
         the success of an advertisement.[2
       </p>
+      <p>loremjhdvavhdhjhdbhbhhhfjksjjfuijdjjh</p>
     </div>
   );
 }
