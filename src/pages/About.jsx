@@ -1,6 +1,7 @@
 export default function About() {
   return (
-    <div>
+    <>
+      <div>
       <p>
         an online marketing, a landing page, sometimes known as a "lead capture
         page", "single property page", "static page", "squeeze page" or a
@@ -26,8 +27,17 @@ export default function About() {
         the success of an advertisement.[2
 
 
-        hi it is working daa
+        hi it is working daa  
+
+
+
+        
       </p>
     </div>
+
+    <div>
+      <h1>namma tha eppayme namma tha</h1>
+    </div>
+    </>
   );
 }
