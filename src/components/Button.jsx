@@ -7,6 +7,8 @@ export default function BasicButtons({ Name, Click }) {
     <Stack spacing={2} direction="row">
       <Button variant="contained" onClick={Click} className={styles.btn}>
         {Name}
+
+        
       </Button>
     </Stack>
   );
